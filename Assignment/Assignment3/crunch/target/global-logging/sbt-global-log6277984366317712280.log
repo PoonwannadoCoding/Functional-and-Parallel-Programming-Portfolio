@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;project {file:/home/worawit/Documents/GitHub/a3-starter/crunch/}root; clearCaches, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(project {file:/home/worawit/Documents/GitHub/a3-starter/crunch/}root, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mset current project to BFS (in build file:/home/worawit/Documents/GitHub/a3-starter/crunch/)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(clearCaches, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
